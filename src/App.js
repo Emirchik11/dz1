@@ -14,7 +14,7 @@ function Title () {
       <div>
         <h2>I am Title</h2>
       </div>
-  )
+  );
 }
 
 function Content () {
